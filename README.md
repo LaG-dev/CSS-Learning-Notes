@@ -4,4 +4,5 @@ Taking notes while learning CSS by making a webpage.
   
 ## Repository components:
 Libraries : jQuery , dat.gui  
-Learning Source : https://www.udemy.com/course/in-depth-html-css-course-build-responsive-websites/
+Learning Source :  
+[HTML & CSS Tutorial and Projects Course](https://www.udemy.com/course/in-depth-html-css-course-build-responsive-websites/ "Title") By John Smilga
